@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 /*
 
@@ -21,18 +22,16 @@ namespace student_exercises
 	public class Cohort
 	{
 		public int id { get; set; }
-		public int instructorId { get; set; }
 		public string name { get; set; }
-		public int studentCount { get; set; }
-		public int instructorCount { get; set; }
+		public List<Student> studentCount { get; set; }
+		public List<Instructor> instructorCount { get; set; }
 
-		public Cohort(int newId, int newInstructorId, string newName, int newStudentCount, int newInstructorCount)
+		public Cohort(int newId, string newName)
 		{
 			id = newId;
-			instructorId = newInstructorId;
 			name = newName;
-			studentCount = newStudentCount;
-			instructorCount = newInstructorCount;
+			studentCount = new List<Student>();
+			instructorCount = new List<Instructor>();
 		}
 	}
 }

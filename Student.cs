@@ -21,11 +21,23 @@ namespace student_exercises
     */
     public class Student
     {
+        public int studentId { get; set; }
         public int cohortId { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
         public string slackHandle { get; set; }
 
-        public List<string> exerciseList = new List<string>();
+        public List<Exercise> exerciseList { get; set; }
+
+      // Constructor setup. Leave out the list as an arg
+      public Student(int newStudentId,int newCohortId, string newFirstName, string newLastName, string newSlackHandle)
+        {
+          studentId = newStudentId;
+          cohortId = newCohortId;
+          firstName = newFirstName;
+          lastName = newLastName;
+          slackHandle = newSlackHandle;
+          exerciseList = new List<Exercise>();
+        }
     }
 }
