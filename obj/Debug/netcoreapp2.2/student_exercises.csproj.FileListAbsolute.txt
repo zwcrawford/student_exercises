@@ -1,0 +1,11 @@
+/Users/zac_crawford/workspace/csharp/student_exercises/bin/Debug/netcoreapp2.2/student_exercises.deps.json
+/Users/zac_crawford/workspace/csharp/student_exercises/bin/Debug/netcoreapp2.2/student_exercises.runtimeconfig.json
+/Users/zac_crawford/workspace/csharp/student_exercises/bin/Debug/netcoreapp2.2/student_exercises.runtimeconfig.dev.json
+/Users/zac_crawford/workspace/csharp/student_exercises/bin/Debug/netcoreapp2.2/student_exercises.dll
+/Users/zac_crawford/workspace/csharp/student_exercises/bin/Debug/netcoreapp2.2/student_exercises.pdb
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.csprojAssemblyReference.cache
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.csproj.CoreCompileInputs.cache
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.AssemblyInfoInputs.cache
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.AssemblyInfo.cs
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.dll
+/Users/zac_crawford/workspace/csharp/student_exercises/obj/Debug/netcoreapp2.2/student_exercises.pdb
