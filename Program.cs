@@ -80,15 +80,15 @@ namespace student_exercises
 			instructor_2.assignExercises(Olivia, exercise_3);
 			instructor_2.assignExercises(Olivia, exercise_4);
 
-			// Andy assigns exercises 3 and 4 for all students
-			instructor_2.assignExercises(Gabs, exercise_3);
-			instructor_2.assignExercises(Gabs, exercise_4);
-			instructor_2.assignExercises(Tay, exercise_3);
-			instructor_2.assignExercises(Tay, exercise_4);
-			instructor_2.assignExercises(Caroline, exercise_3);
-			instructor_2.assignExercises(Caroline, exercise_4);
-			instructor_2.assignExercises(Olivia, exercise_3);
-			instructor_2.assignExercises(Olivia, exercise_4);
+			// Andy assigns exercises 5 and 6 for all students
+			instructor_2.assignExercises(Gabs, exercise_5);
+			instructor_2.assignExercises(Gabs, exercise_6);
+			instructor_2.assignExercises(Tay, exercise_5);
+			instructor_2.assignExercises(Tay, exercise_6);
+			instructor_2.assignExercises(Caroline, exercise_5);
+			instructor_2.assignExercises(Caroline, exercise_6);
+			instructor_2.assignExercises(Olivia, exercise_5);
+			instructor_2.assignExercises(Olivia, exercise_6);
 
 
 		}
