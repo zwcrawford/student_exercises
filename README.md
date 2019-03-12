@@ -8,7 +8,6 @@ Table students {
   FirstName string
   LastName string
   SlackHandle string
-  Cohort int
   Exercises list
 }
 

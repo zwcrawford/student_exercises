@@ -2,7 +2,7 @@ using System;
 
 namespace student_exercises
 {
-    class Instructor
+    public class Instructor
     {
 
     }
